@@ -1,6 +1,6 @@
 # 2026-03-BI-RFM
 
-# Lambda Env Variable
+# Lambda Env Variable Sample
 |     |     |
 | --- | --- |
 | ATHENA\_OUTPUT | s3://2026-03-demo/query-result/ |
